@@ -96,7 +96,7 @@ git push <仓库名> <本地分支名>
 
 git pull  拉取远程仓库所有分支更新并合并到本地分支。
 git pull origin master 将远程master分支合并到当前本地master分支
-git pull origin master:master 将远程master分支合并到当前本地master分支，冒号后面表示本地分支
+git pull origin main:master 将远程min分支合并到当前本地master分支，冒号后面表示本地分支
 ```
 
 ### 5.查看状态
